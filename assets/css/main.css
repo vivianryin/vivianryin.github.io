@@ -88,39 +88,7 @@ body {
     -webkit-transition: none !important;
     -ms-transition: none !important;
     transition: none !important; }
-    
-/* intro */
 
-.content {
-      text-align: left;
-      padding: 20px;
-  }
-  
-  .content h1 {
-      font-size: 3em;
-      margin-bottom: 10px;
-      font-weight: bold;
-      color: #ff6f61
-  }
-  
-  .animation_text {
-      font-size: 2em;
-      font-weight: 600;
-      color: #333;
-      margin-top: 10px;
-      height: 50px; /* Adjust based on your design */
-      display: inline-block;
-      white-space: nowrap;
-      overflow: hidden;
-      position: relative;
-  }
-  
-  .animation_text_word {
-      font-style: italic;
-      color: #ff6f61; /* Color of the animated text */
-  }
-
-  
 /* Type */
 body, input, select, textarea {
   color: #7f888f;
@@ -260,8 +228,6 @@ hr {
 .align-right {
   text-align: right; }
 
-
-  
 /* Row */
 .row {
   display: flex;
