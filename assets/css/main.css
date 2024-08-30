@@ -1985,6 +1985,7 @@ button,
     padding-right: 2.75em; }
 
 #sidebar {
+  position: fixed;
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
   -ms-flex-grow: 0;
