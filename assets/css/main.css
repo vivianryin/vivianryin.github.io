@@ -1286,6 +1286,11 @@ a.image {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform .2s;
+}
+
+.education-card:hover {
+  transform: scale(1.1);
 }
 
 .content-container {
@@ -1985,7 +1990,6 @@ button,
     padding-right: 2.75em; }
 
 #sidebar {
-  position: fixed;
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
   -ms-flex-grow: 0;
