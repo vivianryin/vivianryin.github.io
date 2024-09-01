@@ -61,4 +61,4 @@ I’m on the lookout for opportunities to apply my data expertise in impactful w
 
 ---
 
-### Thanks for stopping by my Data Wonderland! 🌟
+### Thanks for stopping by my Data Wonderland💫! 
