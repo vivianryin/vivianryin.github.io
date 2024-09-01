@@ -52,6 +52,7 @@ I’m always excited to connect with fellow data enthusiasts, potential collabor
 - **📧 Email**: [vivian.yin@columbia.edu](mailto:vivian.yin@columbia.edu)
 - **💼 LinkedIn**: [Vivian Yin](https://www.linkedin.com/in/vivianryin)
 - **💻 GitHub**: [vivianryin](https://github.com/vivianryin)
+- **📱 Instagram**: [vivianry_](https://www.instagram.com/vivianry_/)
 
 ---
 
