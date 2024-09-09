@@ -1262,6 +1262,11 @@ a.image {
     -ms-transform: scale(1.075);
     transform: scale(1.075); }
 
+.fixed-image img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}    
 /* Education */
 .logo-image {
   max-width: 150px; /* Adjust the size of the container for the logo */
@@ -1290,7 +1295,7 @@ a.image {
 }
 
 .education-card:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
 }
 
 .content-container {
