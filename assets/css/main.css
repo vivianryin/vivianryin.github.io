@@ -1282,8 +1282,8 @@ a.image {
 .education-cards {
   display: flex;
   flex-direction: column;
-  gap: 20px;
-  padding: 20px;
+  gap: 40px;
+  padding: 40px;
 }
 
 .education-card {
@@ -1293,6 +1293,7 @@ a.image {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform .2s;
 }
+
 
 .education-card:hover {
   transform: scale(1.02);
